@@ -1,0 +1,6 @@
+{
+  "name": "KidSafe - Mắt Khỏe Cho Bé",
+  "description": "Ứng dụng giám sát khoảng cách xem bảo vệ mắt bé, tự động tắt màn hình khi quá gần, quản lý thời gian sử dụng và bộ lọc nội dung an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

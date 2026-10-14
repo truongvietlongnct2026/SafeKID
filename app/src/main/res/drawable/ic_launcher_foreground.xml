@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Outline -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,23 L78,32 C78,56 68,72 54,83 C40,72 30,56 30,32 Z" />
+    <!-- Inner Shield Surface -->
+    <path
+        android:fillColor="#047857"
+        android:pathData="M54,27 L74,35 C74,54 65,68 54,77 C43,68 34,54 34,35 Z" />
+    <!-- Protective Eye Shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,39 C44,39 37,47 37,49 C37,51 44,59 54,59 C64,59 71,51 71,49 C71,47 64,39 54,39 Z" />
+    <!-- Iris -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,43 A6,6 0 1,0 54,55 A6,6 0 1,0 54,43 Z" />
+    <!-- Pupil -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,46 A3,3 0 1,0 54,52 A3,3 0 1,0 54,46 Z" />
+    <!-- Light Reflection in Eye -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,47 A1.2,1.2 0 1,0 52.5,49.4 A1.2,1.2 0 1,0 52.5,47 Z" />
+    <!-- Heart / Safe Checkmark below eye -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M48,64 L52,68 L60,60 L62,62 L52,72 L46,66 Z" />
+</vector>
